@@ -21,6 +21,8 @@ The `homeworks` folder contains a series of assignments designed to test your kn
 | [**Task 1**](./homeworks/task_1.pdf)                        | voter model, Markov chain, stable distributions, random walk, return probability |
 | [**Task 2**](./homeworks/task_2.pdf)                       | complete graph, expected hitting time, vertex, Markov chain, transition matrix, stationary distributions, grid recoloring, absorbing state, particle splitting, branching process, symmetric random walk, return time, expected returns, sequence observation, coin flips, game theory |
 | [**Task 3**](./homeworks/task_3.pdf)                        | dice rolls, Poisson process, negative binomial distribution, gamma distribution, interarrival times, intensity function, container, Markov chain, empty time, Yule process, transition probability, expected total age, Poisson-headed demon, expected strikes, defeat probability |
+| [**Task 4**](./homeworks/task_4.pdf)                        | single-server queue, Poisson distribution, service time distribution, queue dynamics, taxi stand, passenger queue, Markov chain, balance equations, stationary distribution, grid color dynamics, absorbing states |
+
 
 ## Project
 The purpose of this [project](./project/) is to provide an in-depth analysis and application of various stochastic processes. It explores mathematical models and their real-world applications, highlighting key concepts and theories in stochastic processes. In this notebook, we delve into various fundamental and advanced concepts that underpin stochastic processes. We cover Gaussian distributions, Gaussian processes, Brownian motion, and Markov Chain Monte Carlo (MCMC) methods, providing practical implementations and insights into each area.
